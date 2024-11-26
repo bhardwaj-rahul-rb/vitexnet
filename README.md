@@ -2,7 +2,7 @@
 
 This is an official PyTorch implementation of "ViTexNet: A Multi-Modal Vision-Text Fusion Network for Chest X-Ray Image Segmentation"
 
->  
+>  Segmentation of lung regions in chest X-ray (CXR) images plays a crucial role in assisting doctors with the diagnosis of various lung diseases. However, challenges such as extreme lung shape variations and blurred lung boundaries caused by certain conditions often lead to inaccuracies in segmentation models. Existing deep learning methods predominantly rely on image-only information, and their effectiveness is often constrained by the limited availability of high-quality annotated data. To address this limitation, ViTexNet, a Vision-Text Fusion Network, is proposed. This model integrates visual features from chest X-rays with medical text annotations, such as lesion counts and specific locations, to enhance segmentation performance. Extensive experiments conducted on the QaTa-COV19 dataset indicate that the proposed approach surpasses other state-of-the-art segmentation models, achieving a Dice score of 87.73% and an mIoU of 78.14%.
 -----
 
 ## Framework
