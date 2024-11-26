@@ -62,12 +62,12 @@ ViTexNet
     |   |   ├── ...
     ├── train
     |   ├── images
-    |   |   ├── image_1.png
-    |   |   ├── image_2.png
+    |   |   ├── image_3.png
+    |   |   ├── image_4.png
     |   |   ├── ...
     │   ├── masks
-    |   |   ├── mask_image_1.png
-    |   |   ├── mask_image_2.png
+    |   |   ├── mask_image_3.png
+    |   |   ├── mask_image_4.png
     |   |   ├── ...
     ├── test_annotations.csv
     ├── train_annotations.csv
