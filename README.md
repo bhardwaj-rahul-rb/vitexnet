@@ -87,7 +87,7 @@ To **test** the model, execute: ``` python test_net.py ``` after *training* the 
 The learned model weights are available below:
 | Dataset | Model | Download link |
 | ----------- | ------- | ---------------- |
-| QaTa-COV19 | ViTexNet | <div align="center"><a href="https://drive.google.com/">Google Drive</a></div> |
+| QaTa-COV19 | ViTexNet | <div align="center"><a href="https://drive.google.com/file/d/19NuTLqFCXr1_hh9RhTtkP7ag2sHYiKWl/view?usp=sharing">Google Drive</a></div> |
 
 ## Todo List
 - [ ] Release entire code
